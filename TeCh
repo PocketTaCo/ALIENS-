@@ -1,0 +1,11 @@
+var SumOfAliens = 10000;
+var rA = 4200
+var gA = 5100
+var bA = 700
+
+function AlienInvasion(r, g, b) {
+	if(g > 5000){
+		console.log()
+	}
+}
+
