@@ -1,1 +1,29 @@
-function
+var SumOfAliens = 10000;
+
+var green = 2500;
+var red = 4500;
+var blue = 3000;
+
+var sum1 = green+red;
+var sum2 = red+blue;
+
+var greetings;
+//*to say those phrases down below*\\
+function Aliens(green, red, blue){
+	if(aliens = 10000) {
+		greetings = "damn that much?"
+	}
+	
+	else if(green > 5000) {
+		greetings = "MOTHER OF GOD, not the green ones"
+	}
+
+	else if(sum1 > 8000) {
+		greetings = "DOOOOOM!"
+	}
+
+	else(sum2 > 3000) {
+		greetings = "We will not go quietly into the night. We will not vanish without a fight. TODAY WE CELEBRATE OUR INDEPENDANCE DAY!"
+	}
+}
+console.log(greetings) 
