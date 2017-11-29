@@ -1,31 +1,36 @@
+var SumOfAliens = 10000;
 
-var green = 2500;
+var G = 2500;
 var red = 4500;
 var blue = 3000;
 
-var sum1 = green+red;
-var sum2 = red+blue;
+var sum1 = G+red;
+var sum2 = red+G;
 
-var greetings;
+
 //*to say those phrases down below*\\
-function Aliens(green, red, blue){
+function Aliens(G, sum1, sum2){
+	if(aliens = 10000) 
+	{
+		console.log("damn. that many??")
+	}
 	
-	 if(aliens = 10000) {
-		
+    if(G > 5000 || G < 5000) 
+	{
+		console.log("MOTHER OF GOD, not the green ones")
+		console.log("wow such aliens")
 	}
-	console.log(Aliens("damn that much?"))
-	 
-	 if(green > 5000) {
+
+	if(sum1 > 8000 || sum1 < 8000) 
+	{
+		console.log("DOOOOOOM!!!")
+		console.log("that much? i can kill all of them!!!")
 
 	}
-	console.log(green("MOTHER OF GOD, not the green ones"))
-	 
-	 if(sum1 > 8000) {
-		
-	}
-	console.log(sum1("DOOOOOM!"))
-	 
-	 if(sum2 > 3000) { 
 
-		
-}	console.log(sum2("We will not go quietly into the night. We will not vanish without a fight. TODAY WE CELEBRATE OUR INDEPENDANCE DAY!"))
+	else(sum2 > 3000) 
+	{
+		console.log("We will not go quietly into the night. We will not vanish without a fight. TODAY WE CELEBRATE OUR INDEPENDANCE DAY!")
+	}
+}
+Aliens(G, sum1, sum2) 
